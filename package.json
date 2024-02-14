@@ -1,0 +1,36 @@
+{
+  "name": "userrestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chintan soni",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cryptlib": "^1.0.3",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-joi-validation": "^5.0.1",
+    "joi": "^17.7.0",
+    "localizify": "^2.0.0",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "node-async-loop": "^1.2.2",
+    "node-datetime": "^2.1.2",
+    "node-modules": "^1.0.1",
+    "nodemailer": "^6.8.0",
+    "nodemon": "^2.0.20",
+    "pino": "^8.7.0",
+    "pino-http": "^8.2.1",
+    "rand-token": "^1.0.1",
+    "router": "^1.3.7",
+    "Validator": "^1.1.4",
+    "winston": "^3.8.2"
+  }
+}
